@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript (Goal- Last July)
+- 🌱 JavaScript Completed..
+- ✌  Starting React Series
 - 📫 You can contacat me on my e-mail ID - amancollege04@gmail.com
 - My Portfolio- amankumar9958.github.io/PortFolio
 
