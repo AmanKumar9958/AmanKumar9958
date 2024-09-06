@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Aman Kumar
-- 👀 I’m interested in web development
-- 🌱 JavaScript Completed..
-- ✌  Starting React Series
-- 📫 You can contacat me on my e-mail ID - amancollege04@gmail.com
-- My Portfolio- amankumar9958.github.io/PortFolio
+================================
+Web Developer
+-------------
+- 🌍  I'm based in New Delhi, India
+- 🖥️  See my portfolio at - amankumar9958.github.io/PortFolio
+- ✉️  You can contact me at amancollege04@gmail.com
 
 <!---
 AmanKumar9958/AmanKumar9958 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
