@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aman Kumar
 
-================================
-
 Web Developer
 -------------
 - 🌍  I'm based in New Delhi, India
