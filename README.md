@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_cpp.gif" alt="C++" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_cpp.gif" alt="C++" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_css.gif" alt="CSS" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_html.gif" alt="HTML" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_JS.gif" alt="JavaScript" width="40" height="40"/> </a> 
