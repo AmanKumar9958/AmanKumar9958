@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar9958&show_icons=true&locale=en&layout=compact" alt="amankumar9958" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar9958&" alt="amankumar9958" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar9958&theme=default" alt="amankumar9958" /></p>
