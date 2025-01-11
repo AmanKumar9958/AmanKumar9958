@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar9958&show_icons=true&locale=en&layout=compact" alt="amankumar9958" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=amankumar9958&theme=default" alt="amankumar9958" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmanKumar9958)](https://git.io/streak-stats)
