@@ -26,11 +26,4 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_cpp.gif" alt="C++" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_css.gif" alt="CSS" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_html.gif" alt="HTML" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_JS.gif" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_react.gif" alt="React" width="40" height="40"/> </a>
-<a href="https://github.com/AmanKumar9958" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_git.gif" alt="GitHub" width="40" height="40"/> </a>  
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar9958&show_icons=true&locale=en&layout=compact" alt="amankumar9958" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar9958&theme=default" alt="amankumar9958" /></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <
