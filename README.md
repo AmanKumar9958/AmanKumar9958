@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar9958&show_icons=true&locale=en&layout=compact" alt="amankumar9958" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmanKumar9958" alt="GitHub Streak" /></a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanKumar9958&cache_seconds=1800)
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKumar9958)](https://github.com/anuraghazra/github-readme-stats)
