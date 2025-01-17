@@ -35,4 +35,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AmanKumar9958)
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKumar9958)](https://github.com/anuraghazra/github-readme-stats)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKumar9958)](https://github.com/anuraghazra/github-readme-stats)
