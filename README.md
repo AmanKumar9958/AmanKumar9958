@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **amancollege04@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://amankumar9958.github.io/PortFolio/](https://amankumar9958.github.io/PortFolio/)
+- 👨‍💻 All of my projects are available at [https://amankumar9958.github.io/PortFolio/](https://aman-dev-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
