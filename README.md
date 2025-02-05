@@ -21,15 +21,8 @@
 <a href="https://instagram.com/amank_kabaddi_04" target="blank"><img align="center" src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_insta.gif" alt="Instagram" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_cpp.gif" alt="C++" width="60" height="60"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_css.gif" alt="CSS" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_html.gif" alt="HTML" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_JS.gif" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_react.gif" alt="React" width="40" height="40"/> </a>
-<a href="https://github.com/AmanKumar9958" target="_blank" rel="noreferrer"> <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_git.gif" alt="GitHub" width="40" height="40"/> </a>  
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar9958&show_icons=true&locale=en&layout=compact" alt="amankumar9958" /></p>
 
