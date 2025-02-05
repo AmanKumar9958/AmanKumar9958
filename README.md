@@ -30,4 +30,3 @@
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKumar9958)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
