@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar9958&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar9958" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on **amancollege04@gmail.com**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://aman-dev-portfolio.netlify.app/](https://aman-dev-portfolio.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **amancollege04@gmail.com**
 
