@@ -1,11 +1,9 @@
 [![MasterHead](https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_banner.png)](https://aman-dev-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">Innovative Solutions in Web and App Development | React Enthusiast 🚀</h3>
+<h3 align="center">Innovative Solutions in Web and App Development | Full Stack Blockchain Developer</h3>
 <img alt="Coding" align="right" width="400" src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/avtar.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar9958&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar9958" /> </p>
-
-- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://aman-dev-portfolio.netlify.app/](https://aman-dev-portfolio.netlify.app/)
 
