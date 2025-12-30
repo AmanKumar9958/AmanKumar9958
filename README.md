@@ -71,7 +71,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AmanKumar9958&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanKumar9958&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanKumar9958&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amankumar9958&label=Views&color=blue&style=flat-square" alt="amankumar9958" />
 </div>
