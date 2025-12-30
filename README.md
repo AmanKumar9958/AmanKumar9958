@@ -68,7 +68,7 @@
 </p>
 
 <p>
-  <b>DSA:</b><br>
+  <b>💡 DSA:</b><br>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
@@ -76,10 +76,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanKumar9958&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanKumar9958&show_icons=true&locale=en&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
 
 <div align="center">
   <br>
