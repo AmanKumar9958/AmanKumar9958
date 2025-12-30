@@ -7,7 +7,7 @@
   <h1>Aman Kumar</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3596F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+%26+Mobile+Specialist;Building+Web3+%26+Blockchain+Solutions;MERN+Stack+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=600&color=3596F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+%26+Mobile+Specialist;Building+Web3+%26+Blockchain+Solutions;MERN+Stack+Expert" alt="Typing SVG" />
   </a>
 
   <p>
