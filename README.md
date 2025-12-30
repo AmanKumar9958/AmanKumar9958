@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/git_banner.png)](https://aman-dev-portfolio.netlify.app/)
 
 <div align="center">
- 
+  
   <img src="https://github.com/AmanKumar9958/AmanKumar9958/blob/main/assets/avtar.png" width="120" height="120" style="border-radius: 50%;" alt="Aman Kumar Avatar">
 
   <h1>Aman Kumar</h1>
@@ -67,10 +67,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AmanKumar9958&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <a href="https://leetcode.com/u/amankumar9958/">
+    <img src="https://leetcode-stats-six.vercel.app/?username=amankumar9958&theme=tokyonight&hide_border=true" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <div align="center">
