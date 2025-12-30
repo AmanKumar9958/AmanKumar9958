@@ -17,7 +17,7 @@
         I am a versatile developer passionate about building seamless digital experiences. I specialize in creating responsive web applications and cross-platform mobile apps using <strong>React Native</strong>. My goal is to bridge the gap between intuitive UI/UX and robust <strong>Web3</strong> backends.
       </p>
       <ul>
-        <li>📱 I build cross-platform mobile apps with <strong>React Native & Firebase</strong></li>
+        <li>📱 I build cross-platform mobile apps with <strong>React Native</strong></li>
         <li>💻 I develop scalable web solutions using the <strong>MERN Stack</strong></li>
         <li>🔗 I integrate <strong>Blockchain</strong> solutions into modern apps</li>
         <li>📫 Reach me at: <a href="mailto:amancollege04@gmail.com"><strong>amancollege04@gmail.com</strong></a></li>
