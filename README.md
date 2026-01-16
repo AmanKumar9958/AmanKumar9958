@@ -7,7 +7,7 @@
   <h1>Aman Kumar</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=600&color=3596F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+%26+Mobile+Specialist;Building+Web3+%26+Blockchain+Solutions;MERN+Stack+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=600&color=3596F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+%26+Mobile+Expert;Blockchain+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p>
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -75,7 +76,7 @@
   <br/>
   
   <a href="https://leetcode.com/u/amankumar9958/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=amankumar9958&theme=tokyonight&hide_border=true" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/amankumar9958?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
