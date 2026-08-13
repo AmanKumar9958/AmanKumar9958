@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AmanKumar9958&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
