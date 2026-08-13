@@ -74,10 +74,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AmanKumar9958&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
-  
-  <a href="https://leetcode.com/u/amankumar9958/">
-    <img src="https://leetcard.jacoblin.cool/amankumar9958?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" />
-  </a>
 </div>
 
 <div align="center">
